@@ -101,7 +101,7 @@ Fine-tuning from a pretrained NER model.
 
 **4. Predicting**
 
-Predicting the tags from a pretrained model. 
+Predicting the tags from a pretrained model.  
 
 `bash run_predict.sh`
 
